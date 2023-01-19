@@ -1,0 +1,29 @@
+{
+   "title": "Manzana",
+   "description": "LoremIpsum",
+   "price": 500,
+   "thumbnail": "NotFound",
+   "stock": 3,
+   "id": 1
+}{
+   "title": "Pera",
+   "description": "LoremIpsum",
+   "price": 200,
+   "thumbnail": "NotFound",
+   "stock": 6,
+   "id": 2
+}{
+   "title": "Naranja",
+   "description": "LoremIpsum",
+   "price": 350,
+   "thumbnail": "NotFound",
+   "stock": 9,
+   "id": 3
+}{
+   "title": "Sadia",
+   "description": "LoremIpsum",
+   "price": 400,
+   "thumbnail": "NotFound",
+   "stock": 2,
+   "id": 4
+}
