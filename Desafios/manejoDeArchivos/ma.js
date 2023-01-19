@@ -58,6 +58,20 @@ class ProductManager {
         }
     }
 
+    deleteAll = async () => {
+        try {
+            fs.unlink('./products.json', err => {
+                if(err) {
+                    console.log(err)
+                } else {
+                    console.log('File deleted')
+                }
+            })
+        } catch (err) {
+            console.log(err)
+        }
+    }
+
 }
 
 const productManager = new ProductManager()
@@ -70,7 +84,7 @@ productManager.addProducts('Sandia','LoremIpsum', 400,'NotFound', 2)
 // console.log(productManager.getAll())
 // console.log(productManager.getById(1))
 // productManager.createFile()
-
+console.log(productManager.deleteAll())
 
 
 
