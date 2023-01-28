@@ -1,10 +1,4 @@
-// let obj = {}
 
-// for(let i = 1; i <= 10000; i++){
-//     let num = Math.floor(Math.random() * 20 + 1)
-//     console.log(num);
-//     obj(num)
-// }
 const fs = require('fs');
 
 const express = require('express');
