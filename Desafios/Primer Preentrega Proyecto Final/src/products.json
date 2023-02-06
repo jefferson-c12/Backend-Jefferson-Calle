@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Manzana",
+    "description": "LoremIpsum",
+    "price": 500,
+    "thumbnail": "NotFound",
+    "stock": 3,
+    "id": 1
+  },
+  {
+    "title": "Pera",
+    "description": "LoremIpsum",
+    "price": 200,
+    "thumbnail": "NotFound",
+    "stock": 6,
+    "id": 2
+  },
+  {
+    "title": "Naranja",
+    "description": "LoremIpsum",
+    "price": 350,
+    "thumbnail": "NotFound",
+    "stock": 9,
+    "id": 3
+  },
+  {
+    "title": "Sandia",
+    "description": "LoremIpsum",
+    "price": 400,
+    "thumbnail": "NotFound",
+    "stock": 2,
+    "id": 4
+  },
+  {
+    "title": "Anana",
+    "description": "LoremIpsum",
+    "price": 500,
+    "thumbnail": "NotFound",
+    "stock": 6,
+    "id": 5
+  },
+  {
+    "title": "Uva",
+    "description": "LoremIpsum",
+    "price": 450,
+    "thumbnail": "NotFound",
+    "stock": 9,
+    "id": 6
+  },
+  {
+    "title": "Banana",
+    "description": "LoremIpsum",
+    "price": 150,
+    "thumbnail": "NotFound",
+    "stock": 3,
+    "id": 7
+  },
+  {
+    "title": "Durazno",
+    "description": "LoremIpsum",
+    "price": 300,
+    "thumbnail": "NotFound",
+    "stock": 2,
+    "id": 8
+  }
+]{
+  "title": "Manzana",
+  "description": "LoremIpsum",
+  "price": 500,
+  "thumbnail": "NotFound",
+  "stock": 3,
+  "id": 1
+}{
+  "title": "Pera",
+  "description": "LoremIpsum",
+  "price": 200,
+  "thumbnail": "NotFound",
+  "stock": 6,
+  "id": 2
+}{
+  "title": "Naranja",
+  "description": "LoremIpsum",
+  "price": 350,
+  "thumbnail": "NotFound",
+  "stock": 9,
+  "id": 3
+}{
+  "title": "Sandia",
+  "description": "LoremIpsum",
+  "price": 400,
+  "thumbnail": "NotFound",
+  "stock": 2,
+  "id": 4
+}{
+  "title": "Anana",
+  "description": "LoremIpsum",
+  "price": 500,
+  "thumbnail": "NotFound",
+  "stock": 6,
+  "id": 5
+}{
+  "title": "Uva",
+  "description": "LoremIpsum",
+  "price": 450,
+  "thumbnail": "NotFound",
+  "stock": 9,
+  "id": 6
+}{
+  "title": "Banana",
+  "description": "LoremIpsum",
+  "price": 150,
+  "thumbnail": "NotFound",
+  "stock": 3,
+  "id": 7
+}{
+  "title": "Durazno",
+  "description": "LoremIpsum",
+  "price": 300,
+  "thumbnail": "NotFound",
+  "stock": 2,
+  "id": 8
+}{
+  "title": "Manzana",
+  "desc": "LoremIpsum",
+  "price": 500,
+  "thumbnail": "NotFound",
+  "stock": 3,
+  "id": 1
+}{
+  "title": "Naranja",
+  "desc": "LoremIpsum",
+  "price": 350,
+  "thumbnail": "NotFound",
+  "stock": 9,
+  "id": 3
+}{
+  "title": "Pera",
+  "desc": "LoremIpsum",
+  "price": 200,
+  "thumbnail": "NotFound",
+  "stock": 6,
+  "id": 2
+}{
+  "title": "Sandia",
+  "desc": "LoremIpsum",
+  "price": 400,
+  "thumbnail": "NotFound",
+  "stock": 2,
+  "id": 4
+}{
+  "title": "Anana",
+  "desc": "LoremIpsum",
+  "price": 500,
+  "thumbnail": "NotFound",
+  "stock": 6,
+  "id": 5
+}{
+  "title": "Uva",
+  "desc": "LoremIpsum",
+  "price": 450,
+  "thumbnail": "NotFound",
+  "stock": 9,
+  "id": 6
+}{
+  "title": "Banana",
+  "desc": "LoremIpsum",
+  "price": 150,
+  "thumbnail": "NotFound",
+  "stock": 3,
+  "id": 7
+}{
+  "title": "Durazno",
+  "desc": "LoremIpsum",
+  "price": 300,
+  "thumbnail": "NotFound",
+  "stock": 2,
+  "id": 8
+}
